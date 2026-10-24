@@ -1,0 +1,2890 @@
+[
+ {
+  "n": 1,
+  "w": 4,
+  "h": 5,
+  "time": 300,
+  "moves": 2,
+  "exact": true,
+  "source": "screenshot",
+  "cats": [
+   {
+    "color": "yellow",
+    "x": 0,
+    "y": 0
+   },
+   {
+    "color": "yellow",
+    "x": 1,
+    "y": 0
+   },
+   {
+    "color": "yellow",
+    "x": 0,
+    "y": 1
+   },
+   {
+    "color": "yellow",
+    "x": 1,
+    "y": 1
+   }
+  ],
+  "holes": [
+   {
+    "color": "yellow",
+    "x": 2,
+    "y": 0,
+    "cells": [
+     [
+      0,
+      0
+     ],
+     [
+      1,
+      0
+     ],
+     [
+      0,
+      1
+     ],
+     [
+      1,
+      1
+     ]
+    ],
+    "cap": 4
+   }
+  ]
+ },
+ {
+  "n": 2,
+  "w": 5,
+  "h": 5,
+  "time": 300,
+  "moves": 4,
+  "exact": true,
+  "source": "generated",
+  "cats": [
+   {
+    "color": "yellow",
+    "x": 2,
+    "y": 2
+   },
+   {
+    "color": "red",
+    "x": 3,
+    "y": 1
+   },
+   {
+    "color": "red",
+    "x": 3,
+    "y": 2
+   },
+   {
+    "color": "yellow",
+    "x": 2,
+    "y": 3
+   }
+  ],
+  "holes": [
+   {
+    "color": "yellow",
+    "x": 0,
+    "y": 3,
+    "cells": [
+     [
+      0,
+      0
+     ],
+     [
+      1,
+      0
+     ],
+     [
+      0,
+      1
+     ],
+     [
+      1,
+      1
+     ]
+    ],
+    "cap": 2
+   },
+   {
+    "color": "red",
+    "x": 4,
+    "y": 2,
+    "cells": [
+     [
+      0,
+      0
+     ],
+     [
+      0,
+      1
+     ]
+    ],
+    "cap": 2
+   }
+  ]
+ },
+ {
+  "n": 3,
+  "w": 5,
+  "h": 6,
+  "time": 300,
+  "moves": 7,
+  "exact": true,
+  "source": "generated",
+  "cats": [
+   {
+    "color": "green",
+    "x": 3,
+    "y": 1
+   },
+   {
+    "color": "blue",
+    "x": 3,
+    "y": 4
+   },
+   {
+    "color": "blue",
+    "x": 3,
+    "y": 3
+   },
+   {
+    "color": "blue",
+    "x": 2,
+    "y": 3
+   },
+   {
+    "color": "green",
+    "x": 3,
+    "y": 2
+   },
+   {
+    "color": "green",
+    "x": 1,
+    "y": 2
+   },
+   {
+    "color": "green",
+    "x": 0,
+    "y": 1
+   }
+  ],
+  "holes": [
+   {
+    "color": "blue",
+    "x": 0,
+    "y": 4,
+    "cells": [
+     [
+      0,
+      0
+     ],
+     [
+      1,
+      0
+     ],
+     [
+      0,
+      1
+     ],
+     [
+      1,
+      1
+     ]
+    ],
+    "cap": 3
+   },
+   {
+    "color": "green",
+    "x": 1,
+    "y": 0,
+    "cells": [
+     [
+      0,
+      0
+     ],
+     [
+      0,
+      1
+     ],
+     [
+      1,
+      1
+     ]
+    ],
+    "cap": 4
+   }
+  ]
+ },
+ {
+  "n": 4,
+  "w": 6,
+  "h": 6,
+  "time": 300,
+  "moves": 16,
+  "exact": true,
+  "source": "screenshot",
+  "cats": [
+   {
+    "color": "green",
+    "x": 0,
+    "y": 0
+   },
+   {
+    "color": "green",
+    "x": 1,
+    "y": 0
+   },
+   {
+    "color": "red",
+    "x": 3,
+    "y": 1
+   },
+   {
+    "color": "red",
+    "x": 1,
+    "y": 2
+   },
+   {
+    "color": "red",
+    "x": 2,
+    "y": 2
+   },
+   {
+    "color": "green",
+    "x": 4,
+    "y": 2
+   },
+   {
+    "color": "green",
+    "x": 5,
+    "y": 2
+   },
+   {
+    "color": "yellow",
+    "x": 0,
+    "y": 3
+   },
+   {
+    "color": "yellow",
+    "x": 1,
+    "y": 3
+   },
+   {
+    "color": "blue",
+    "x": 3,
+    "y": 3
+   },
+   {
+    "color": "blue",
+    "x": 4,
+    "y": 3
+   },
+   {
+    "color": "blue",
+    "x": 2,
+    "y": 4
+   },
+   {
+    "color": "yellow",
+    "x": 4,
+    "y": 5
+   },
+   {
+    "color": "yellow",
+    "x": 5,
+    "y": 5
+   }
+  ],
+  "holes": [
+   {
+    "color": "red",
+    "x": 0,
+    "y": 0,
+    "cells": [
+     [
+      2,
+      0
+     ],
+     [
+      0,
+      1
+     ],
+     [
+      1,
+      1
+     ],
+     [
+      2,
+      1
+     ]
+    ],
+    "cap": 3
+   },
+   {
+    "color": "green",
+    "x": 4,
+    "y": 0,
+    "cells": [
+     [
+      0,
+      0
+     ],
+     [
+      1,
+      0
+     ],
+     [
+      0,
+      1
+     ],
+     [
+      1,
+      1
+     ]
+    ],
+    "cap": 4
+   },
+   {
+    "color": "yellow",
+    "x": 0,
+    "y": 4,
+    "cells": [
+     [
+      0,
+      0
+     ],
+     [
+      1,
+      0
+     ],
+     [
+      0,
+      1
+     ],
+     [
+      1,
+      1
+     ]
+    ],
+    "cap": 4
+   },
+   {
+    "color": "blue",
+    "x": 3,
+    "y": 4,
+    "cells": [
+     [
+      0,
+      0
+     ],
+     [
+      1,
+      0
+     ],
+     [
+      2,
+      0
+     ],
+     [
+      0,
+      1
+     ]
+    ],
+    "cap": 3
+   }
+  ]
+ },
+ {
+  "n": 5,
+  "w": 5,
+  "h": 6,
+  "time": 300,
+  "moves": 7,
+  "exact": true,
+  "source": "generated",
+  "cats": [
+   {
+    "color": "yellow",
+    "x": 3,
+    "y": 1
+   },
+   {
+    "color": "green",
+    "x": 0,
+    "y": 3
+   },
+   {
+    "color": "green",
+    "x": 1,
+    "y": 3
+   },
+   {
+    "color": "red",
+    "x": 2,
+    "y": 2
+   },
+   {
+    "color": "yellow",
+    "x": 3,
+    "y": 2
+   },
+   {
+    "color": "yellow",
+    "x": 4,
+    "y": 2
+   },
+   {
+    "color": "yellow",
+    "x": 3,
+    "y": 3
+   },
+   {
+    "color": "red",
+    "x": 0,
+    "y": 2
+   },
+   {
+    "color": "red",
+    "x": 1,
+    "y": 2
+   },
+   {
+    "color": "green",
+    "x": 0,
+    "y": 5
+   },
+   {
+    "color": "green",
+    "x": 0,
+    "y": 4
+   }
+  ],
+  "holes": [
+   {
+    "color": "red",
+    "x": 1,
+    "y": 0,
+    "cells": [
+     [
+      0,
+      0
+     ],
+     [
+      1,
+      0
+     ],
+     [
+      0,
+      1
+     ],
+     [
+      1,
+      1
+     ]
+    ],
+    "cap": 3
+   },
+   {
+    "color": "yellow",
+    "x": 3,
+    "y": 3,
+    "cells": [
+     [
+      1,
+      0
+     ],
+     [
+      0,
+      1
+     ],
+     [
+      1,
+      1
+     ]
+    ],
+    "cap": 4
+   },
+   {
+    "color": "green",
+    "x": 1,
+    "y": 4,
+    "cells": [
+     [
+      0,
+      0
+     ],
+     [
+      1,
+      0
+     ],
+     [
+      0,
+      1
+     ],
+     [
+      1,
+      1
+     ]
+    ],
+    "cap": 4
+   }
+  ]
+ },
+ {
+  "n": 6,
+  "w": 6,
+  "h": 6,
+  "time": 300,
+  "moves": 11,
+  "exact": true,
+  "source": "generated",
+  "cats": [
+   {
+    "color": "green",
+    "x": 3,
+    "y": 3
+   },
+   {
+    "color": "blue",
+    "x": 5,
+    "y": 2
+   },
+   {
+    "color": "orange",
+    "x": 2,
+    "y": 4
+   },
+   {
+    "color": "orange",
+    "x": 3,
+    "y": 4
+   },
+   {
+    "color": "green",
+    "x": 2,
+    "y": 2
+   },
+   {
+    "color": "green",
+    "x": 1,
+    "y": 2
+   },
+   {
+    "color": "blue",
+    "x": 4,
+    "y": 0
+   },
+   {
+    "color": "blue",
+    "x": 3,
+    "y": 0
+   },
+   {
+    "color": "orange",
+    "x": 5,
+    "y": 5
+   },
+   {
+    "color": "orange",
+    "x": 4,
+    "y": 5
+   }
+  ],
+  "holes": [
+   {
+    "color": "blue",
+    "x": 0,
+    "y": 0,
+    "cells": [
+     [
+      0,
+      0
+     ],
+     [
+      1,
+      0
+     ],
+     [
+      2,
+      0
+     ]
+    ],
+    "cap": 3
+   },
+   {
+    "color": "orange",
+    "x": 1,
+    "y": 5,
+    "cells": [
+     [
+      0,
+      0
+     ],
+     [
+      1,
+      0
+     ],
+     [
+      2,
+      0
+     ]
+    ],
+    "cap": 4
+   },
+   {
+    "color": "green",
+    "x": 0,
+    "y": 3,
+    "cells": [
+     [
+      0,
+      0
+     ],
+     [
+      1,
+      0
+     ],
+     [
+      2,
+      0
+     ]
+    ],
+    "cap": 3
+   }
+  ]
+ },
+ {
+  "n": 7,
+  "w": 6,
+  "h": 6,
+  "time": 300,
+  "moves": 11,
+  "exact": true,
+  "source": "generated",
+  "cats": [
+   {
+    "color": "yellow",
+    "x": 4,
+    "y": 4
+   },
+   {
+    "color": "red",
+    "x": 0,
+    "y": 4
+   },
+   {
+    "color": "purple",
+    "x": 0,
+    "y": 2
+   },
+   {
+    "color": "purple",
+    "x": 0,
+    "y": 3
+   },
+   {
+    "color": "red",
+    "x": 1,
+    "y": 5
+   },
+   {
+    "color": "yellow",
+    "x": 4,
+    "y": 3
+   },
+   {
+    "color": "yellow",
+    "x": 5,
+    "y": 3
+   },
+   {
+    "color": "red",
+    "x": 3,
+    "y": 4
+   },
+   {
+    "color": "red",
+    "x": 5,
+    "y": 5
+   },
+   {
+    "color": "purple",
+    "x": 3,
+    "y": 3
+   }
+  ],
+  "holes": [
+   {
+    "color": "purple",
+    "x": 0,
+    "y": 0,
+    "cells": [
+     [
+      0,
+      0
+     ],
+     [
+      0,
+      1
+     ],
+     [
+      1,
+      1
+     ],
+     [
+      2,
+      1
+     ]
+    ],
+    "cap": 3
+   },
+   {
+    "color": "yellow",
+    "x": 3,
+    "y": 0,
+    "cells": [
+     [
+      0,
+      0
+     ],
+     [
+      1,
+      0
+     ],
+     [
+      0,
+      1
+     ],
+     [
+      1,
+      1
+     ]
+    ],
+    "cap": 3
+   },
+   {
+    "color": "red",
+    "x": 2,
+    "y": 4,
+    "cells": [
+     [
+      0,
+      0
+     ],
+     [
+      0,
+      1
+     ],
+     [
+      1,
+      1
+     ],
+     [
+      2,
+      1
+     ]
+    ],
+    "cap": 4
+   }
+  ]
+ },
+ {
+  "n": 8,
+  "w": 6,
+  "h": 6,
+  "time": 300,
+  "moves": 12,
+  "exact": true,
+  "source": "generated",
+  "cats": [
+   {
+    "color": "pink",
+    "x": 1,
+    "y": 5
+   },
+   {
+    "color": "blue",
+    "x": 2,
+    "y": 4
+   },
+   {
+    "color": "teal",
+    "x": 4,
+    "y": 1
+   },
+   {
+    "color": "pink",
+    "x": 1,
+    "y": 3
+   },
+   {
+    "color": "pink",
+    "x": 1,
+    "y": 4
+   },
+   {
+    "color": "pink",
+    "x": 0,
+    "y": 2
+   },
+   {
+    "color": "blue",
+    "x": 5,
+    "y": 4
+   },
+   {
+    "color": "blue",
+    "x": 5,
+    "y": 5
+   },
+   {
+    "color": "teal",
+    "x": 5,
+    "y": 0
+   }
+  ],
+  "holes": [
+   {
+    "color": "teal",
+    "x": 5,
+    "y": 1,
+    "cells": [
+     [
+      0,
+      0
+     ],
+     [
+      0,
+      1
+     ]
+    ],
+    "cap": 2
+   },
+   {
+    "color": "pink",
+    "x": 0,
+    "y": 0,
+    "cells": [
+     [
+      0,
+      0
+     ],
+     [
+      0,
+      1
+     ]
+    ],
+    "cap": 4
+   },
+   {
+    "color": "blue",
+    "x": 3,
+    "y": 2,
+    "cells": [
+     [
+      0,
+      0
+     ],
+     [
+      1,
+      0
+     ],
+     [
+      0,
+      1
+     ],
+     [
+      1,
+      1
+     ]
+    ],
+    "cap": 3
+   }
+  ]
+ },
+ {
+  "n": 9,
+  "w": 6,
+  "h": 7,
+  "time": 300,
+  "moves": 14,
+  "exact": true,
+  "source": "generated",
+  "cats": [
+   {
+    "color": "green",
+    "x": 3,
+    "y": 4
+   },
+   {
+    "color": "red",
+    "x": 4,
+    "y": 0
+   },
+   {
+    "color": "orange",
+    "x": 5,
+    "y": 2
+   },
+   {
+    "color": "green",
+    "x": 2,
+    "y": 4
+   },
+   {
+    "color": "green",
+    "x": 3,
+    "y": 3
+   },
+   {
+    "color": "red",
+    "x": 1,
+    "y": 1
+   },
+   {
+    "color": "orange",
+    "x": 4,
+    "y": 3
+   },
+   {
+    "color": "orange",
+    "x": 5,
+    "y": 3
+   },
+   {
+    "color": "red",
+    "x": 3,
+    "y": 2
+   },
+   {
+    "color": "red",
+    "x": 2,
+    "y": 1
+   },
+   {
+    "color": "green",
+    "x": 2,
+    "y": 3
+   },
+   {
+    "color": "orange",
+    "x": 5,
+    "y": 6
+   },
+   {
+    "color": "orange",
+    "x": 5,
+    "y": 5
+   }
+  ],
+  "holes": [
+   {
+    "color": "green",
+    "x": 0,
+    "y": 2,
+    "cells": [
+     [
+      0,
+      0
+     ],
+     [
+      1,
+      0
+     ],
+     [
+      2,
+      0
+     ],
+     [
+      1,
+      1
+     ]
+    ],
+    "cap": 4
+   },
+   {
+    "color": "red",
+    "x": 3,
+    "y": 1,
+    "cells": [
+     [
+      0,
+      0
+     ],
+     [
+      1,
+      0
+     ],
+     [
+      2,
+      0
+     ],
+     [
+      1,
+      1
+     ]
+    ],
+    "cap": 4
+   },
+   {
+    "color": "orange",
+    "x": 0,
+    "y": 5,
+    "cells": [
+     [
+      0,
+      0
+     ],
+     [
+      1,
+      0
+     ],
+     [
+      0,
+      1
+     ],
+     [
+      1,
+      1
+     ]
+    ],
+    "cap": 5
+   }
+  ]
+ },
+ {
+  "n": 10,
+  "w": 6,
+  "h": 7,
+  "time": 300,
+  "moves": 15,
+  "exact": true,
+  "source": "generated",
+  "cats": [
+   {
+    "color": "yellow",
+    "x": 2,
+    "y": 6
+   },
+   {
+    "color": "red",
+    "x": 4,
+    "y": 1
+   },
+   {
+    "color": "purple",
+    "x": 5,
+    "y": 3
+   },
+   {
+    "color": "purple",
+    "x": 4,
+    "y": 3
+   },
+   {
+    "color": "blue",
+    "x": 1,
+    "y": 5
+   },
+   {
+    "color": "blue",
+    "x": 0,
+    "y": 4
+   },
+   {
+    "color": "blue",
+    "x": 1,
+    "y": 4
+   },
+   {
+    "color": "red",
+    "x": 2,
+    "y": 0
+   },
+   {
+    "color": "yellow",
+    "x": 3,
+    "y": 5
+   },
+   {
+    "color": "yellow",
+    "x": 3,
+    "y": 4
+   },
+   {
+    "color": "red",
+    "x": 3,
+    "y": 0
+   },
+   {
+    "color": "purple",
+    "x": 3,
+    "y": 6
+   }
+  ],
+  "holes": [
+   {
+    "color": "yellow",
+    "x": 4,
+    "y": 4,
+    "cells": [
+     [
+      0,
+      0
+     ],
+     [
+      1,
+      0
+     ],
+     [
+      0,
+      1
+     ],
+     [
+      1,
+      1
+     ]
+    ],
+    "cap": 3
+   },
+   {
+    "color": "blue",
+    "x": 0,
+    "y": 1,
+    "cells": [
+     [
+      0,
+      0
+     ],
+     [
+      1,
+      0
+     ],
+     [
+      1,
+      1
+     ]
+    ],
+    "cap": 3
+   },
+   {
+    "color": "purple",
+    "x": 4,
+    "y": 6,
+    "cells": [
+     [
+      0,
+      0
+     ],
+     [
+      1,
+      0
+     ]
+    ],
+    "cap": 3
+   },
+   {
+    "color": "red",
+    "x": 4,
+    "y": 0,
+    "cells": [
+     [
+      0,
+      0
+     ],
+     [
+      1,
+      0
+     ]
+    ],
+    "cap": 3
+   }
+  ]
+ },
+ {
+  "n": 11,
+  "w": 6,
+  "h": 7,
+  "time": 300,
+  "moves": 14,
+  "exact": true,
+  "source": "generated",
+  "cats": [
+   {
+    "color": "orange",
+    "x": 0,
+    "y": 1
+   },
+   {
+    "color": "orange",
+    "x": 1,
+    "y": 1
+   },
+   {
+    "color": "teal",
+    "x": 5,
+    "y": 2
+   },
+   {
+    "color": "teal",
+    "x": 5,
+    "y": 3
+   },
+   {
+    "color": "pink",
+    "x": 5,
+    "y": 4
+   },
+   {
+    "color": "green",
+    "x": 4,
+    "y": 0
+   },
+   {
+    "color": "teal",
+    "x": 4,
+    "y": 2
+   },
+   {
+    "color": "orange",
+    "x": 1,
+    "y": 3
+   },
+   {
+    "color": "green",
+    "x": 2,
+    "y": 0
+   },
+   {
+    "color": "green",
+    "x": 2,
+    "y": 1
+   }
+  ],
+  "holes": [
+   {
+    "color": "pink",
+    "x": 3,
+    "y": 5,
+    "cells": [
+     [
+      0,
+      0
+     ],
+     [
+      1,
+      0
+     ],
+     [
+      0,
+      1
+     ],
+     [
+      1,
+      1
+     ]
+    ],
+    "cap": 1
+   },
+   {
+    "color": "green",
+    "x": 2,
+    "y": 2,
+    "cells": [
+     [
+      0,
+      0
+     ],
+     [
+      1,
+      0
+     ],
+     [
+      0,
+      1
+     ]
+    ],
+    "cap": 3
+   },
+   {
+    "color": "teal",
+    "x": 0,
+    "y": 4,
+    "cells": [
+     [
+      0,
+      0
+     ],
+     [
+      1,
+      0
+     ],
+     [
+      0,
+      1
+     ],
+     [
+      1,
+      1
+     ]
+    ],
+    "cap": 3
+   },
+   {
+    "color": "orange",
+    "x": 0,
+    "y": 2,
+    "cells": [
+     [
+      0,
+      0
+     ],
+     [
+      1,
+      0
+     ],
+     [
+      0,
+      1
+     ]
+    ],
+    "cap": 3
+   }
+  ]
+ },
+ {
+  "n": 12,
+  "w": 6,
+  "h": 7,
+  "time": 300,
+  "moves": 16,
+  "exact": true,
+  "source": "generated",
+  "cats": [
+   {
+    "color": "green",
+    "x": 4,
+    "y": 0
+   },
+   {
+    "color": "red",
+    "x": 5,
+    "y": 1
+   },
+   {
+    "color": "yellow",
+    "x": 4,
+    "y": 5
+   },
+   {
+    "color": "yellow",
+    "x": 4,
+    "y": 6
+   },
+   {
+    "color": "blue",
+    "x": 4,
+    "y": 2
+   },
+   {
+    "color": "blue",
+    "x": 4,
+    "y": 3
+   },
+   {
+    "color": "yellow",
+    "x": 2,
+    "y": 5
+   },
+   {
+    "color": "blue",
+    "x": 2,
+    "y": 3
+   },
+   {
+    "color": "green",
+    "x": 0,
+    "y": 1
+   },
+   {
+    "color": "green",
+    "x": 0,
+    "y": 0
+   },
+   {
+    "color": "red",
+    "x": 5,
+    "y": 6
+   },
+   {
+    "color": "blue",
+    "x": 2,
+    "y": 1
+   },
+   {
+    "color": "red",
+    "x": 5,
+    "y": 2
+   }
+  ],
+  "holes": [
+   {
+    "color": "red",
+    "x": 5,
+    "y": 3,
+    "cells": [
+     [
+      0,
+      0
+     ],
+     [
+      0,
+      1
+     ],
+     [
+      0,
+      2
+     ]
+    ],
+    "cap": 3
+   },
+   {
+    "color": "blue",
+    "x": 2,
+    "y": 1,
+    "cells": [
+     [
+      1,
+      0
+     ],
+     [
+      0,
+      1
+     ],
+     [
+      1,
+      1
+     ]
+    ],
+    "cap": 4
+   },
+   {
+    "color": "yellow",
+    "x": 0,
+    "y": 3,
+    "cells": [
+     [
+      0,
+      0
+     ],
+     [
+      0,
+      1
+     ],
+     [
+      0,
+      2
+     ]
+    ],
+    "cap": 3
+   },
+   {
+    "color": "green",
+    "x": 1,
+    "y": 0,
+    "cells": [
+     [
+      0,
+      0
+     ],
+     [
+      1,
+      0
+     ],
+     [
+      2,
+      0
+     ],
+     [
+      0,
+      1
+     ]
+    ],
+    "cap": 3
+   }
+  ]
+ },
+ {
+  "n": 13,
+  "w": 7,
+  "h": 7,
+  "time": 300,
+  "moves": 19,
+  "exact": true,
+  "source": "generated",
+  "cats": [
+   {
+    "color": "teal",
+    "x": 5,
+    "y": 3
+   },
+   {
+    "color": "teal",
+    "x": 6,
+    "y": 4
+   },
+   {
+    "color": "blue",
+    "x": 0,
+    "y": 2
+   },
+   {
+    "color": "blue",
+    "x": 2,
+    "y": 2
+   },
+   {
+    "color": "purple",
+    "x": 0,
+    "y": 0
+   },
+   {
+    "color": "purple",
+    "x": 0,
+    "y": 1
+   },
+   {
+    "color": "orange",
+    "x": 6,
+    "y": 0
+   },
+   {
+    "color": "orange",
+    "x": 6,
+    "y": 1
+   },
+   {
+    "color": "blue",
+    "x": 2,
+    "y": 4
+   },
+   {
+    "color": "orange",
+    "x": 5,
+    "y": 0
+   },
+   {
+    "color": "teal",
+    "x": 5,
+    "y": 4
+   },
+   {
+    "color": "purple",
+    "x": 4,
+    "y": 0
+   }
+  ],
+  "holes": [
+   {
+    "color": "orange",
+    "x": 4,
+    "y": 5,
+    "cells": [
+     [
+      0,
+      0
+     ],
+     [
+      1,
+      0
+     ],
+     [
+      0,
+      1
+     ],
+     [
+      1,
+      1
+     ]
+    ],
+    "cap": 3
+   },
+   {
+    "color": "purple",
+    "x": 1,
+    "y": 0,
+    "cells": [
+     [
+      0,
+      0
+     ],
+     [
+      1,
+      0
+     ],
+     [
+      0,
+      1
+     ],
+     [
+      1,
+      1
+     ]
+    ],
+    "cap": 3
+   },
+   {
+    "color": "teal",
+    "x": 1,
+    "y": 5,
+    "cells": [
+     [
+      0,
+      0
+     ],
+     [
+      0,
+      1
+     ],
+     [
+      1,
+      1
+     ]
+    ],
+    "cap": 3
+   },
+   {
+    "color": "blue",
+    "x": 0,
+    "y": 3,
+    "cells": [
+     [
+      0,
+      0
+     ],
+     [
+      1,
+      0
+     ],
+     [
+      2,
+      0
+     ],
+     [
+      1,
+      1
+     ]
+    ],
+    "cap": 3
+   }
+  ]
+ },
+ {
+  "n": 14,
+  "w": 7,
+  "h": 7,
+  "time": 300,
+  "moves": 18,
+  "exact": true,
+  "source": "generated",
+  "cats": [
+   {
+    "color": "red",
+    "x": 1,
+    "y": 0
+   },
+   {
+    "color": "green",
+    "x": 2,
+    "y": 5
+   },
+   {
+    "color": "pink",
+    "x": 4,
+    "y": 1
+   },
+   {
+    "color": "pink",
+    "x": 5,
+    "y": 1
+   },
+   {
+    "color": "yellow",
+    "x": 6,
+    "y": 6
+   },
+   {
+    "color": "yellow",
+    "x": 4,
+    "y": 5
+   },
+   {
+    "color": "pink",
+    "x": 6,
+    "y": 4
+   },
+   {
+    "color": "pink",
+    "x": 5,
+    "y": 4
+   },
+   {
+    "color": "red",
+    "x": 2,
+    "y": 2
+   },
+   {
+    "color": "red",
+    "x": 0,
+    "y": 1
+   },
+   {
+    "color": "red",
+    "x": 1,
+    "y": 1
+   },
+   {
+    "color": "green",
+    "x": 2,
+    "y": 4
+   },
+   {
+    "color": "green",
+    "x": 0,
+    "y": 4
+   },
+   {
+    "color": "green",
+    "x": 1,
+    "y": 2
+   }
+  ],
+  "holes": [
+   {
+    "color": "green",
+    "x": 0,
+    "y": 2,
+    "cells": [
+     [
+      0,
+      0
+     ],
+     [
+      0,
+      1
+     ],
+     [
+      1,
+      1
+     ],
+     [
+      2,
+      1
+     ]
+    ],
+    "cap": 4
+   },
+   {
+    "color": "pink",
+    "x": 3,
+    "y": 3,
+    "cells": [
+     [
+      0,
+      0
+     ],
+     [
+      1,
+      0
+     ],
+     [
+      0,
+      1
+     ],
+     [
+      1,
+      1
+     ]
+    ],
+    "cap": 4
+   },
+   {
+    "color": "red",
+    "x": 0,
+    "y": 5,
+    "cells": [
+     [
+      0,
+      0
+     ],
+     [
+      1,
+      0
+     ],
+     [
+      0,
+      1
+     ],
+     [
+      1,
+      1
+     ]
+    ],
+    "cap": 4
+   },
+   {
+    "color": "yellow",
+    "x": 3,
+    "y": 5,
+    "cells": [
+     [
+      0,
+      0
+     ],
+     [
+      0,
+      1
+     ],
+     [
+      1,
+      1
+     ],
+     [
+      2,
+      1
+     ]
+    ],
+    "cap": 2
+   }
+  ]
+ },
+ {
+  "n": 15,
+  "w": 7,
+  "h": 7,
+  "time": 300,
+  "moves": 18,
+  "exact": true,
+  "source": "generated",
+  "cats": [
+   {
+    "color": "blue",
+    "x": 4,
+    "y": 2
+   },
+   {
+    "color": "blue",
+    "x": 5,
+    "y": 2
+   },
+   {
+    "color": "orange",
+    "x": 4,
+    "y": 5
+   },
+   {
+    "color": "orange",
+    "x": 5,
+    "y": 6
+   },
+   {
+    "color": "purple",
+    "x": 3,
+    "y": 6
+   },
+   {
+    "color": "green",
+    "x": 1,
+    "y": 0
+   },
+   {
+    "color": "blue",
+    "x": 6,
+    "y": 3
+   },
+   {
+    "color": "green",
+    "x": 2,
+    "y": 0
+   },
+   {
+    "color": "purple",
+    "x": 0,
+    "y": 5
+   },
+   {
+    "color": "blue",
+    "x": 5,
+    "y": 4
+   },
+   {
+    "color": "green",
+    "x": 5,
+    "y": 1
+   },
+   {
+    "color": "purple",
+    "x": 2,
+    "y": 4
+   }
+  ],
+  "holes": [
+   {
+    "color": "blue",
+    "x": 0,
+    "y": 1,
+    "cells": [
+     [
+      0,
+      0
+     ],
+     [
+      1,
+      0
+     ],
+     [
+      1,
+      1
+     ]
+    ],
+    "cap": 4
+   },
+   {
+    "color": "orange",
+    "x": 5,
+    "y": 5,
+    "cells": [
+     [
+      0,
+      0
+     ],
+     [
+      1,
+      0
+     ],
+     [
+      1,
+      1
+     ]
+    ],
+    "cap": 2
+   },
+   {
+    "color": "green",
+    "x": 2,
+    "y": 1,
+    "cells": [
+     [
+      0,
+      0
+     ],
+     [
+      1,
+      0
+     ],
+     [
+      2,
+      0
+     ]
+    ],
+    "cap": 3
+   },
+   {
+    "color": "purple",
+    "x": 2,
+    "y": 3,
+    "cells": [
+     [
+      0,
+      0
+     ],
+     [
+      1,
+      0
+     ],
+     [
+      2,
+      0
+     ]
+    ],
+    "cap": 3
+   }
+  ]
+ },
+ {
+  "n": 16,
+  "w": 7,
+  "h": 7,
+  "time": 300,
+  "moves": 17,
+  "exact": true,
+  "source": "generated",
+  "cats": [
+   {
+    "color": "red",
+    "x": 5,
+    "y": 2
+   },
+   {
+    "color": "red",
+    "x": 3,
+    "y": 1
+   },
+   {
+    "color": "yellow",
+    "x": 5,
+    "y": 6
+   },
+   {
+    "color": "yellow",
+    "x": 4,
+    "y": 6
+   },
+   {
+    "color": "teal",
+    "x": 1,
+    "y": 6
+   },
+   {
+    "color": "teal",
+    "x": 2,
+    "y": 6
+   },
+   {
+    "color": "pink",
+    "x": 4,
+    "y": 1
+   },
+   {
+    "color": "pink",
+    "x": 3,
+    "y": 0
+   },
+   {
+    "color": "teal",
+    "x": 2,
+    "y": 5
+   },
+   {
+    "color": "red",
+    "x": 2,
+    "y": 1
+   },
+   {
+    "color": "yellow",
+    "x": 6,
+    "y": 5
+   }
+  ],
+  "holes": [
+   {
+    "color": "teal",
+    "x": 0,
+    "y": 0,
+    "cells": [
+     [
+      0,
+      0
+     ],
+     [
+      1,
+      0
+     ],
+     [
+      0,
+      1
+     ],
+     [
+      1,
+      1
+     ]
+    ],
+    "cap": 3
+   },
+   {
+    "color": "red",
+    "x": 4,
+    "y": 2,
+    "cells": [
+     [
+      0,
+      0
+     ],
+     [
+      0,
+      1
+     ],
+     [
+      1,
+      1
+     ],
+     [
+      2,
+      1
+     ]
+    ],
+    "cap": 3
+   },
+   {
+    "color": "yellow",
+    "x": 0,
+    "y": 2,
+    "cells": [
+     [
+      0,
+      0
+     ],
+     [
+      0,
+      1
+     ],
+     [
+      1,
+      1
+     ],
+     [
+      2,
+      1
+     ]
+    ],
+    "cap": 3
+   },
+   {
+    "color": "pink",
+    "x": 4,
+    "y": 0,
+    "cells": [
+     [
+      0,
+      0
+     ],
+     [
+      1,
+      0
+     ],
+     [
+      2,
+      0
+     ],
+     [
+      1,
+      1
+     ]
+    ],
+    "cap": 2
+   }
+  ]
+ },
+ {
+  "n": 17,
+  "w": 7,
+  "h": 7,
+  "time": 300,
+  "moves": 19,
+  "exact": true,
+  "source": "generated",
+  "cats": [
+   {
+    "color": "green",
+    "x": 1,
+    "y": 2
+   },
+   {
+    "color": "orange",
+    "x": 2,
+    "y": 3
+   },
+   {
+    "color": "blue",
+    "x": 0,
+    "y": 4
+   },
+   {
+    "color": "purple",
+    "x": 4,
+    "y": 5
+   },
+   {
+    "color": "orange",
+    "x": 3,
+    "y": 3
+   },
+   {
+    "color": "orange",
+    "x": 4,
+    "y": 3
+   },
+   {
+    "color": "blue",
+    "x": 1,
+    "y": 5
+   },
+   {
+    "color": "orange",
+    "x": 2,
+    "y": 2
+   },
+   {
+    "color": "purple",
+    "x": 2,
+    "y": 6
+   },
+   {
+    "color": "purple",
+    "x": 2,
+    "y": 5
+   },
+   {
+    "color": "green",
+    "x": 3,
+    "y": 1
+   },
+   {
+    "color": "green",
+    "x": 4,
+    "y": 0
+   },
+   {
+    "color": "green",
+    "x": 6,
+    "y": 3
+   }
+  ],
+  "holes": [
+   {
+    "color": "purple",
+    "x": 3,
+    "y": 5,
+    "cells": [
+     [
+      0,
+      0
+     ],
+     [
+      0,
+      1
+     ],
+     [
+      1,
+      1
+     ]
+    ],
+    "cap": 3
+   },
+   {
+    "color": "green",
+    "x": 5,
+    "y": 3,
+    "cells": [
+     [
+      0,
+      0
+     ],
+     [
+      0,
+      1
+     ],
+     [
+      1,
+      1
+     ]
+    ],
+    "cap": 4
+   },
+   {
+    "color": "blue",
+    "x": 1,
+    "y": 3,
+    "cells": [
+     [
+      0,
+      0
+     ],
+     [
+      0,
+      1
+     ],
+     [
+      1,
+      1
+     ]
+    ],
+    "cap": 2
+   },
+   {
+    "color": "orange",
+    "x": 5,
+    "y": 5,
+    "cells": [
+     [
+      0,
+      0
+     ],
+     [
+      1,
+      0
+     ],
+     [
+      0,
+      1
+     ],
+     [
+      1,
+      1
+     ]
+    ],
+    "cap": 4
+   }
+  ]
+ },
+ {
+  "n": 18,
+  "w": 7,
+  "h": 7,
+  "time": 300,
+  "moves": 17,
+  "exact": true,
+  "source": "generated",
+  "cats": [
+   {
+    "color": "red",
+    "x": 2,
+    "y": 5
+   },
+   {
+    "color": "yellow",
+    "x": 2,
+    "y": 0
+   },
+   {
+    "color": "yellow",
+    "x": 3,
+    "y": 1
+   },
+   {
+    "color": "pink",
+    "x": 3,
+    "y": 5
+   },
+   {
+    "color": "teal",
+    "x": 1,
+    "y": 4
+   },
+   {
+    "color": "teal",
+    "x": 1,
+    "y": 3
+   },
+   {
+    "color": "pink",
+    "x": 6,
+    "y": 5
+   },
+   {
+    "color": "pink",
+    "x": 5,
+    "y": 5
+   },
+   {
+    "color": "red",
+    "x": 0,
+    "y": 5
+   },
+   {
+    "color": "yellow",
+    "x": 1,
+    "y": 2
+   },
+   {
+    "color": "teal",
+    "x": 6,
+    "y": 2
+   },
+   {
+    "color": "teal",
+    "x": 6,
+    "y": 0
+   }
+  ],
+  "holes": [
+   {
+    "color": "red",
+    "x": 1,
+    "y": 5,
+    "cells": [
+     [
+      0,
+      0
+     ],
+     [
+      0,
+      1
+     ],
+     [
+      1,
+      1
+     ],
+     [
+      2,
+      1
+     ]
+    ],
+    "cap": 2
+   },
+   {
+    "color": "teal",
+    "x": 4,
+    "y": 0,
+    "cells": [
+     [
+      0,
+      0
+     ],
+     [
+      1,
+      0
+     ],
+     [
+      0,
+      1
+     ],
+     [
+      1,
+      1
+     ]
+    ],
+    "cap": 4
+   },
+   {
+    "color": "pink",
+    "x": 4,
+    "y": 5,
+    "cells": [
+     [
+      0,
+      0
+     ],
+     [
+      0,
+      1
+     ],
+     [
+      1,
+      1
+     ],
+     [
+      2,
+      1
+     ]
+    ],
+    "cap": 3
+   },
+   {
+    "color": "yellow",
+    "x": 3,
+    "y": 2,
+    "cells": [
+     [
+      0,
+      0
+     ],
+     [
+      0,
+      1
+     ],
+     [
+      1,
+      1
+     ],
+     [
+      2,
+      1
+     ]
+    ],
+    "cap": 3
+   }
+  ]
+ },
+ {
+  "n": 19,
+  "w": 7,
+  "h": 7,
+  "time": 300,
+  "moves": 19,
+  "exact": true,
+  "source": "generated",
+  "cats": [
+   {
+    "color": "purple",
+    "x": 1,
+    "y": 6
+   },
+   {
+    "color": "purple",
+    "x": 0,
+    "y": 5
+   },
+   {
+    "color": "red",
+    "x": 2,
+    "y": 1
+   },
+   {
+    "color": "blue",
+    "x": 4,
+    "y": 1
+   },
+   {
+    "color": "orange",
+    "x": 6,
+    "y": 4
+   },
+   {
+    "color": "red",
+    "x": 0,
+    "y": 1
+   },
+   {
+    "color": "red",
+    "x": 1,
+    "y": 3
+   },
+   {
+    "color": "red",
+    "x": 0,
+    "y": 2
+   },
+   {
+    "color": "orange",
+    "x": 5,
+    "y": 4
+   },
+   {
+    "color": "purple",
+    "x": 2,
+    "y": 6
+   },
+   {
+    "color": "purple",
+    "x": 3,
+    "y": 6
+   },
+   {
+    "color": "orange",
+    "x": 4,
+    "y": 4
+   },
+   {
+    "color": "orange",
+    "x": 5,
+    "y": 3
+   },
+   {
+    "color": "blue",
+    "x": 4,
+    "y": 0
+   },
+   {
+    "color": "blue",
+    "x": 5,
+    "y": 1
+   },
+   {
+    "color": "orange",
+    "x": 2,
+    "y": 2
+   },
+   {
+    "color": "purple",
+    "x": 6,
+    "y": 5
+   }
+  ],
+  "holes": [
+   {
+    "color": "blue",
+    "x": 5,
+    "y": 0,
+    "cells": [
+     [
+      0,
+      0
+     ],
+     [
+      1,
+      0
+     ],
+     [
+      1,
+      1
+     ]
+    ],
+    "cap": 3
+   },
+   {
+    "color": "purple",
+    "x": 3,
+    "y": 5,
+    "cells": [
+     [
+      0,
+      0
+     ],
+     [
+      1,
+      0
+     ],
+     [
+      2,
+      0
+     ],
+     [
+      1,
+      1
+     ]
+    ],
+    "cap": 5
+   },
+   {
+    "color": "orange",
+    "x": 2,
+    "y": 3,
+    "cells": [
+     [
+      0,
+      0
+     ],
+     [
+      1,
+      0
+     ],
+     [
+      2,
+      0
+     ],
+     [
+      1,
+      1
+     ]
+    ],
+    "cap": 5
+   },
+   {
+    "color": "red",
+    "x": 5,
+    "y": 2,
+    "cells": [
+     [
+      0,
+      0
+     ],
+     [
+      1,
+      0
+     ],
+     [
+      1,
+      1
+     ]
+    ],
+    "cap": 4
+   }
+  ]
+ },
+ {
+  "n": 20,
+  "w": 7,
+  "h": 7,
+  "time": 300,
+  "moves": 17,
+  "exact": true,
+  "source": "generated",
+  "cats": [
+   {
+    "color": "green",
+    "x": 2,
+    "y": 2
+   },
+   {
+    "color": "yellow",
+    "x": 0,
+    "y": 6
+   },
+   {
+    "color": "blue",
+    "x": 4,
+    "y": 6
+   },
+   {
+    "color": "pink",
+    "x": 3,
+    "y": 0
+   },
+   {
+    "color": "green",
+    "x": 1,
+    "y": 2
+   },
+   {
+    "color": "green",
+    "x": 3,
+    "y": 1
+   },
+   {
+    "color": "yellow",
+    "x": 0,
+    "y": 3
+   },
+   {
+    "color": "yellow",
+    "x": 0,
+    "y": 4
+   },
+   {
+    "color": "yellow",
+    "x": 3,
+    "y": 3
+   },
+   {
+    "color": "green",
+    "x": 2,
+    "y": 0
+   },
+   {
+    "color": "pink",
+    "x": 4,
+    "y": 1
+   },
+   {
+    "color": "pink",
+    "x": 6,
+    "y": 1
+   },
+   {
+    "color": "blue",
+    "x": 2,
+    "y": 6
+   },
+   {
+    "color": "blue",
+    "x": 1,
+    "y": 6
+   },
+   {
+    "color": "blue",
+    "x": 3,
+    "y": 6
+   },
+   {
+    "color": "blue",
+    "x": 1,
+    "y": 5
+   }
+  ],
+  "holes": [
+   {
+    "color": "green",
+    "x": 0,
+    "y": 1,
+    "cells": [
+     [
+      0,
+      0
+     ],
+     [
+      1,
+      0
+     ],
+     [
+      2,
+      0
+     ],
+     [
+      0,
+      1
+     ]
+    ],
+    "cap": 4
+   },
+   {
+    "color": "yellow",
+    "x": 4,
+    "y": 4,
+    "cells": [
+     [
+      0,
+      0
+     ],
+     [
+      1,
+      0
+     ],
+     [
+      2,
+      0
+     ],
+     [
+      0,
+      1
+     ]
+    ],
+    "cap": 4
+   },
+   {
+    "color": "pink",
+    "x": 4,
+    "y": 2,
+    "cells": [
+     [
+      0,
+      0
+     ],
+     [
+      1,
+      0
+     ],
+     [
+      2,
+      0
+     ],
+     [
+      0,
+      1
+     ]
+    ],
+    "cap": 3
+   },
+   {
+    "color": "blue",
+    "x": 1,
+    "y": 3,
+    "cells": [
+     [
+      0,
+      0
+     ],
+     [
+      0,
+      1
+     ],
+     [
+      1,
+      1
+     ],
+     [
+      2,
+      1
+     ]
+    ],
+    "cap": 5
+   }
+  ]
+ }
+]

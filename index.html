@@ -1,0 +1,71 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover, user-scalable=no">
+<title>Color Hole</title>
+<link rel="stylesheet" href="styles.css">
+</head>
+<body>
+
+<div id="app">
+
+  <header id="hud">
+    <div class="hud-cat" aria-hidden="true"><canvas id="mascot" width="96" height="96"></canvas></div>
+    <div class="hud-mid">
+      <div id="levelLabel">Level 1</div>
+      <div id="timer"><span class="clock" aria-hidden="true"></span><span id="timeText">05:00</span></div>
+    </div>
+    <div class="hud-btns">
+      <button id="undoBtn" class="round" title="Undo" aria-label="Undo last move">
+        <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M9 7H5V3" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"/><path d="M5.5 7.5A8 8 0 1 1 4 12" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round"/></svg>
+      </button>
+      <button id="menuBtn" class="round" title="Levels" aria-label="Level select">
+        <svg viewBox="0 0 24 24" aria-hidden="true"><rect x="4" y="4" width="6.5" height="6.5" rx="2" fill="currentColor"/><rect x="13.5" y="4" width="6.5" height="6.5" rx="2" fill="currentColor"/><rect x="4" y="13.5" width="6.5" height="6.5" rx="2" fill="currentColor"/><rect x="13.5" y="13.5" width="6.5" height="6.5" rx="2" fill="currentColor"/></svg>
+      </button>
+    </div>
+  </header>
+
+  <div id="coins"><span class="coin" aria-hidden="true"></span><span id="coinText">0</span></div>
+
+  <main id="stage">
+    <canvas id="board" role="img" aria-label="Puzzle board"></canvas>
+  </main>
+
+  <p id="hint">Drag a hole onto cats of its own colour.</p>
+
+</div>
+
+<!-- level complete -->
+<div class="overlay" id="winOverlay" hidden>
+  <div class="panel">
+    <h2 class="shout">Well Done!</h2>
+    <p class="sub">Rewards!</p>
+    <div class="coinpile" aria-hidden="true"></div>
+    <p class="reward">x<span id="rewardText">40</span></p>
+    <button class="big green" id="continueBtn">Continue</button>
+  </div>
+</div>
+
+<!-- out of time -->
+<div class="overlay" id="failOverlay" hidden>
+  <div class="panel">
+    <h2 class="shout small">Out of Time!</h2>
+    <p class="sub" id="failSub">The kitties got away.</p>
+    <button class="big green" id="retryBtn">Try Again</button>
+    <button class="big ghost" id="failMenuBtn">Levels</button>
+  </div>
+</div>
+
+<!-- level select -->
+<div class="overlay" id="menuOverlay" hidden>
+  <div class="panel wide">
+    <h2 class="shout small">Levels</h2>
+    <div id="levelGrid" class="levelgrid"></div>
+    <button class="big ghost" id="closeMenuBtn">Back</button>
+  </div>
+</div>
+
+<script type="module" src="src/main.js"></script>
+</body>
+</html>
